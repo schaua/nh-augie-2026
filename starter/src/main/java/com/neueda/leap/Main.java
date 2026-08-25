@@ -6,5 +6,5 @@ public class Main {
         System.out.println("This is a demo for pull requests on GitHub.");
         System.out.println("Augie is a artist");    
         System.out.println("Fred is a dancer");
+        }
     }
-}
